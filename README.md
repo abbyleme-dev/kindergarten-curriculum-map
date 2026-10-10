@@ -14,4 +14,4 @@
 
 指標文字由 PDF 擷取整理，正式引用請以原檔為準。
 
-製作：Abby 陪你簡單用 AI（@abby.simple.ai）
+製作：Abby 陪你簡單用 AI（@abby.ai.simple）
